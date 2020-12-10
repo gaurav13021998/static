@@ -1,2 +1,2 @@
 # static
-basic
+Basic portfolio using css and html 
